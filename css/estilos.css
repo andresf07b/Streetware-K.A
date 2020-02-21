@@ -97,3 +97,15 @@ align-items: center;
     font-family:'Open Sans', sans-serif;
     
 }
+.footer{
+    width: 800px;
+    height: 1111px;
+    display: flex;
+    justify-content:space-evenly ;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.iconf{
+width: 30px;
+height: 30px;
+}
